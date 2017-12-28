@@ -1,8 +1,8 @@
 var game = 0;
 
 var games = [
-	{ url: "http://www.nickjr.tv/gsp.scenic/international/games/nella-connect-the-shots/build/index.html", w: 450, h: 265, instruction: "" },
-	{ url: "http://kidmons.com/game/paint-online", w: 450, h: 300, instruction: "נא לשרבל חופשי" },
+	{ url: "https://www.nickjr.tv/gsp.scenic/international/games/nella-connect-the-shots/build/index.html", w: 450, h: 265, instruction: "" },
+	{ url: "https://kidmons.com/game/paint-online", w: 450, h: 300, instruction: "נא לשרבל חופשי" },
 ];
  
  
